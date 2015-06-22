@@ -1,0 +1,16 @@
+#Tom {
+  width: 100px;
+  height: 40px;
+  background-color: #4169e1;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+}
+#Bob {
+  width: 100px;
+  height: 40px;
+  background-color: #ff4040;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+}
